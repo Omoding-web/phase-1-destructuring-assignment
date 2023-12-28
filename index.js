@@ -93,3 +93,29 @@ const {
   nestedPartner: "Miss Piggy"
 };
 
+//tests
+describe("index.js", () => {
+  it("String: uses destructuring to declare five animal sounds", () => {
+});
+
+it("String: uses destructuring to declare four traditional animal names", () => {
+});
+
+it("String: uses destructuring to declare three traditional animal colors", () => {
+});
+
+it("String: uses destructuring to declare the seven traditional rainbow color variables using the color names", () => {
+});
+
+it("Array: uses destructuring to declare six rainbow color variables using initials", () => {
+});
+
+it("Array: uses destructuring to declare Indigo using indg", () => {
+});
+
+it("Object: uses destructuring to assign all appropriate variable using the keys as the variable names", () => {
+});
+
+it("Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner", () => {
+});
+});
